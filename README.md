@@ -1,6 +1,6 @@
 # ai_work_assistant
 
-A new Flutter project.
+A new Flutter project of gemma hackthon GDG Rajkot
 
 ## Getting Started
 
